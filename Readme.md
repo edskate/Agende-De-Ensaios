@@ -1,4 +1,4 @@
-# Entrada do Ensaio
+# Entrada para ensaio.
 
 ## Ensaio 08:00 ás 09:45
 
